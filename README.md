@@ -1,6 +1,6 @@
 # SEEDRA
 
-![img](./assets/seedra.png)
+![img](./assets/logo.png)
 
 ## MODEL DOWNLOAD
 
